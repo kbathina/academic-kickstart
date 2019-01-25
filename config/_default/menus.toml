@@ -9,23 +9,23 @@
   weight = 1
 
 [[main]]
-  name = "Publications"
-  url = "#publications_featured"
+  name = "Projects"
+  url = "#projects"
   weight = 2
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Publications"
+  url = "#publications"
   weight = 3
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Talks"
+  url = "#talks"
   weight = 4
 
 [[main]]
-  name = "Tutorials"
-  url = "/tutorial/"
+  name = "Teachings and Services"
+  url = "#teachings-services"
   weight = 5
 
 [[main]]
@@ -35,7 +35,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+[[main]]
+   name = "CV"
+   url = "cv.pdf"
+   weight = 7
