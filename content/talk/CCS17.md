@@ -1,5 +1,5 @@
 +++
-date = "2017-09-21T00:00:00"
+date = "2017-09-21"
 title = "Predicting Epistatic Interactions Using Information and Network Theory"
 abstract = ""
 abstract_short = ""
