@@ -93,6 +93,6 @@ interests = [
 
 +++
 
-I am a 5th year PhD student at Indiana University studying Complex Systems. I am currently working with Drs. Filippo Raddichi and Johan Bollen. My thesis broadly revolves around patterns during phase transitions. 
+I am a 5th year PhD student at Indiana University studying Complex Systems. I am currently working with Drs. Johan Bollen and Filippo Radicchi. My thesis broadly revolves around patterns during phase transitions. 
 
 I am currently working on a python implementation (with code and explanation) of Doing Bayesian Data Analysis: A Tutorial Introduction with R by Dr. John Kruschke. The current (unfinished) working website is linked [here](https://pydbda.github.io/dbda-notes/).
