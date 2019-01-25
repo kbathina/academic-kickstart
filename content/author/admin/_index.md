@@ -6,14 +6,14 @@ name = "Krishna Bathina"
 superuser = true
 
 # Role/position
-role = "PhD student interested in complexity and systems science"
+role = "PhD student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Center for Complex Networks and Systems Research", url = "cnets.indiana.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Complex Systems student interested in "
+bio = "PhD student interested in complexity and systems science"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
