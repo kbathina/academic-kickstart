@@ -1,6 +1,6 @@
 +++
 date = "2018-09-25"
-title = "Error-Correcting Decoders for Communities in Networks"
+title = "Using Social Media Indicators to Study Regional Socio-Economic Resilience"
 abstract = ""
 abstract_short = ""
 event = "Conference on Complex Systems 2018"
@@ -10,9 +10,9 @@ location = "Thessaloniki, Greece"
 selected = false
 math = true
 
-url_slides = "presentations/Error-Decoding.pdf"
+url_slides = "presentations/early_warning_indicators.pdf"
 
 +++
 
-<script async class="speakerdeck-embed" data-id="3559ad4f04a54bdebfa7d3164efd30b6" data-ratio="1.777" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="51047c89c2034f548a269624ca08cf60" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
