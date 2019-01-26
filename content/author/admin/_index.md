@@ -38,6 +38,7 @@ interests = [
 
 [[education.courses]]
   course = "BS in Computational and Mathematical Modeling in Biology and Epidemiology"
+  course = "BS in Psychology"
   institution = "University of Michigan"
   year = 2014
 

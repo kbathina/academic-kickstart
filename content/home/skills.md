@@ -26,10 +26,6 @@ weight = 7
   icon_pack = "fab"
   name = "R"
   description = "90%"
-
-[[feature]]
-  name = "R"
-  description = "90%"
   
 [[feature]]
   icon = "chart-line"
