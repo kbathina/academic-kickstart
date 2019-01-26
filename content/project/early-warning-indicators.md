@@ -15,7 +15,7 @@ summary = "Using early warning indicators to predict phase transitions"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["early warning indicators", "resilience", "social media"]
+tags = ["early warning indicators", "resilience", "social media", "information theory", "sentiment analysis"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = ""
@@ -30,4 +30,8 @@ math = true
 
 +++
 
-Phase transitions are characteristic of many complex systems. We attempt to quantify early warning indicators and resilience for these phase transitions and apply them to many systems such as Twitch Plays Pokemon, riots, extreme weather, mental distress, and economic distress.
+Phase transitions are characteristic of many complex systems. We attempt to quantify early warning indicators and resilience for these phase transitions and apply them to many systems. 
+
+* Games - Using data from Twitch Plays Pokemon and from Unanimous AI, we are using informatino theory and 
+
+riots, extreme weather, mental distress, and economic distress.

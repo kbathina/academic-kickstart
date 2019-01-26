@@ -8,7 +8,7 @@ author = "Krishna Bathina, Guillaume Dury, Xuan Wang, Taylor Raborn"
 
 
 # Project summary to display on homepage.
-summary = "measuring diversity of DNA sequences"
+summary = "Measuring diversity of DNA sequences"
 
 
 # Tags: can be used for filtering projects.

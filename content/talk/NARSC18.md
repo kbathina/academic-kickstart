@@ -17,7 +17,7 @@ url_slides = "presentations/NARSC-Slides.pdf"
 # image = "headers/bubbles-wide.jpg"
 # caption = "My caption :smile:"
 
-tags = ["early warning indicators", "resilience", "social media"]
+tags = ["early warning indicators", "resilience", "social media","sentiment analysis"]
 
 
 +++

@@ -20,6 +20,50 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Research Associate"
+  company = "Johan Bollen"
+  location = "Bloomington, Indiana"
+  date_start = "2018-01-15"
+  date_end = 
+  description = """
+
+  Responsibilities include:
+  
+  * Collecting social media in accordance to the EDA grant
+  * Applying sentiment analysis tools for rating tweets
+  * Building null models and bootstrapping data for statistical analysis
+  """
+
+[[experience]]
+  title = "Associate Instructor"
+  company = "Indiana University"
+  location = "Bloomington, Indiana"
+  date_start = "2017-08-15"
+  date_end = "2017-12-15"
+  description = """
+
+  Courses:
+  
+  * Information I-400: Collective Intelligence (Aug - Dec 2017)
+
+  Responsibilities include teaching, designing homework and projects, and grading.
+  """
+
+[[experience]]
+  title = "Research Associate"
+  company = "Filippo Radicchi"
+  location = "Bloomington, Indiana"
+  date_start = "2016-08-15"
+  date_end = "2017-05-15"
+  description = """
+
+  Responsibilities include:
+  
+  * Reducing the computational complexity of a current community detection method 
+  * Analyzing the efficiency and accuracy of the new method on artificial and real networks
+  """
+
+[[experience]]
   title = "Intern"
   company = "HRL Laboratories"
   company_url = "http://www.hrl.com/ "
@@ -30,7 +74,51 @@ date_format = "January 2006"
   Responsibilities include:
   
   * Collecting social media data using Hadoop with MapReduce
-  * Agent based modelling the spread of viral protest hashtags using Python 3
+  * Agent based modelling the spread of viral protest hashtags using Python3
+  """
+
+  [[experience]]
+  title = "Associate Instructor"
+  company = "Indiana University"
+  location = "Bloomington, Indiana"
+  date_start = "2016-01-01"
+  date_end = "2016-05-30"
+  description = """
+
+  Courses:
+  
+  * Informatics I-210: Information Infrastructure I
+
+  Responsibilities include teaching Python3, proctoring exams, and grading homework assignments. 
+  """
+
+[[experience]]
+  title = "Research Associate"
+  company = "L Jean Camp"
+  location = "Bloomington, Indiana"
+  date_start = "2015-08-01"
+  date_end = "2015-12-15"
+  description = """
+
+  Responsibilities include:
+  
+  * Coding and analyzing participant responses and surveys about computer security
+  * Making visualizations using Python3
+  """
+
+[[experience]]
+  title = "Associate Instructor"
+  company = "Indiana University"
+  location = "Bloomington, Indiana"
+  date_start = "2014-08-01"
+  date_end = "2015-05-30"
+  description = """
+
+  Courses:
+  
+  * Informatics I-201: Mathematical Foundations of Informatics
+
+  Responsibilities include teaching mathematics, proctoring exams, and grading homework assignments. 
   """
 
 [[experience]]
@@ -42,6 +130,7 @@ date_format = "January 2006"
   description = """
 
   Courses:
+
   * Complex Systems 209: Agent Based Models
   * Complex Systems 391: Modeling in Political Science
 
