@@ -3,7 +3,7 @@
 date = 2017-09-27
 
 # Project title.
-title = "Belief Propagation and Community Detection"
+title = "Error-Correcting Decoders for Communities in Networks"
 author = "Krishna Bathina and Filippo Radicchi"
 
 # Project summary to display on homepage.
