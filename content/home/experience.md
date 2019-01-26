@@ -18,18 +18,34 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Intern"
   company = "HRL Laboratories"
   company_url = "http://www.hrl.com/ "
   location = "Malibu, California"
-  date_start = "2016-06-01"
-  date_end = "2018-08-15"
+  date_start = "2016-06"
+  date_end = "2016-08"
   description = """
   Responsibilities include:
   
-  * Analysing Tumblr data for posting behavior during protests
-  * Modelling the spread of protest hashtags 
+  * Collecting social media data using Hadoop with MapReduce
+  * Agent based modelling the spread of viral protest hashtags using Python 3
+  """
+
+[[experience]]
+  title = "Student Instructor"
+  company = "Univeristy of Michigan"
+  location = "Ann Arbor, Michigan"
+  date_start = "2013-08"
+  date_end = "2013-12"
+  description = """
+
+  Courses:
+  * Complex Systems 209: Agent Based Models
+  * Complex Systems 391: Modeling in Political Science
+
+  Responsibilities include making and grading classroom homework, quizzes, and exams.
   """
 
 +++

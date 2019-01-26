@@ -7,7 +7,7 @@ publication_types = ["2"]
 publication = "Journal On Policy and Complex Systems"
 selected = false
 title = "How Stable Is Democracy? Suggestions from Artificial Social Networks"
-tags = ["agent based model, network science"]
+tags = ["agent based model", "network science"]
 
 [[url_custom]]
 name = "Link"
