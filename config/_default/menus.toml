@@ -24,18 +24,21 @@
   weight = 4
 
 [[main]]
-  name = "Teachings and Services"
-  url = "#teachings-services"
+  name = "Skills"
+  url = "#skills"
   weight = 5
+
+[[main]]
+  name = "Services"
+  url = "#services"
+  weight = 6
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
    url = "cv.pdf"
-   weight = 7
+   weight = 8
