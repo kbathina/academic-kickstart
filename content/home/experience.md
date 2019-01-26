@@ -41,9 +41,7 @@ date_format = "January 2006"
   date_end = "2017-12-15"
   description = """
 
-  Courses:
-  
-  * Information I-400: Collective Intelligence (Aug - Dec 2017)
+  Courses: Information I-400: Collective Intelligence (Aug - Dec 2017)
 
   Responsibilities include teaching, designing homework and projects, and grading.
   """
@@ -84,9 +82,7 @@ date_format = "January 2006"
   date_end = "2016-05-30"
   description = """
 
-  Courses:
-  
-  * Informatics I-210: Information Infrastructure I
+  Courses: Informatics I-210: Information Infrastructure I
 
   Responsibilities include teaching Python3, proctoring exams, and grading homework assignments. 
   """
@@ -113,9 +109,7 @@ date_format = "January 2006"
   date_end = "2015-05-30"
   description = """
 
-  Courses:
-  
-  * Informatics I-201: Mathematical Foundations of Informatics
+  Courses: Informatics I-201: Mathematical Foundations of Informatics
 
   Responsibilities include teaching mathematics, proctoring exams, and grading homework assignments. 
   """
