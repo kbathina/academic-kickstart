@@ -24,7 +24,6 @@ date_format = "January 2006"
   company = "Johan Bollen"
   location = "Bloomington, Indiana"
   date_start = "2018-01-15"
-  date_end = 
   description = """
 
   Responsibilities include:
