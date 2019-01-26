@@ -18,4 +18,4 @@ weight = 60
 
 - [Young Researchers of the Complex Systems Society (yrCSS) board member](http://yrcss.cssociety.org/): 2018 - Present
 	- [Conference on Complex Systems Warm Up](http://yrcss.cssociety.org/warm-up-2018/): September 21-23 2018
-	- [Conference on COmplex Systems Warm Up](http://event.ntu.edu.sg/ccs2019/Pages/Home.aspx): September 30 - October 4 2019
+	- [Conference on Complex Systems Warm Up](http://event.ntu.edu.sg/ccs2019/Pages/Home.aspx): September 30 - October 4 2019

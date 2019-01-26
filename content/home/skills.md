@@ -15,13 +15,13 @@ weight = 60
 	
 +++
 
-Coding
+Coding Skills - 
 
-* Highest Proficiency with Python2, Python3, Latex 
-* Experience with C, C++, R, MySQL, Bash, Gephi, Matlab, Hadoop
+* Highest Proficiency with **Python2**, **Python3**, **Latex** 
+* Experience with **C**, **C++**, **R**, **MySQL**, **Bash**, **Gephi**, **Matlab**, **Hadoop**
 * Python Packages 
-	* Analysis - NumPy, SciPy, Pandas, Geopandas, nltk, scikit-learn, PyMC3, Theano
-	* Data - BeautifulSoup, SQLAlchemy, 
-	* Visualization - matplotlib, seaborn, plotly
+	* Analysis - **NumPy**, **SciPy**, **Pandas**, **GeoPandas**, **nltk**, **scikit-learn**, **PyMC3**, **Theano**
+	* Data - **BeautifulSoup**, **SQLAlchemy**, 
+	* Visualization - **matplotlib**, **seaborn**, **plotly**
 
-Technical Skills - Data Science, Big Data Analysis, Network Science, Sentiment Analysis, Machine Learning, Statistics (parametric and non-parametric)
+Technical Skills - **Data Science**, **Big Data Analysis**, **Network Science**, **Sentiment Analysis**, **Machine Learning**, **Statistics** (parametric and non-parametric)
