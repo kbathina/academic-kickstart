@@ -14,6 +14,8 @@ title = "Usage-Based Approaches to Language Acquisition and Processing: Cognitiv
 # url_project = "project/deep-learning/"
 # url_slides = "#"
 # url_video = "#"
+tags = ["linguistics, agent based model"]
+
 
 [[url_custom]]
 name = "Link"

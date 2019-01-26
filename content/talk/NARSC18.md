@@ -17,6 +17,9 @@ url_slides = "presentations/NARSC-Slides.pdf"
 # image = "headers/bubbles-wide.jpg"
 # caption = "My caption :smile:"
 
+tags = ["early warning indicators", "resilience", "social media"]
+
+
 +++
 
 <script async class="speakerdeck-embed" data-id="bfb875d25796447da2631538194a76ef" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>

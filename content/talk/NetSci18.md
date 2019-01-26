@@ -11,6 +11,7 @@ selected = false
 math = true
 
 url_slides = "presentations/Error-Decoding.pdf"
+tags = ["belief propagation", "community detection", "network science"]
 
 +++
 

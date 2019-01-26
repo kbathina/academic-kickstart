@@ -19,6 +19,7 @@ url_slides = "presentations/IG-Slides.pdf"
 # [header]
 # image = "headers/bubbles-wide.jpg"
 # caption = "My caption :smile:"
+tags = ["information theory", "network science"]
 
 +++
 

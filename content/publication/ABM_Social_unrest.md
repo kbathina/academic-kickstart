@@ -8,6 +8,8 @@ publication = "In *Social, Cultural, and Behavioral Modeling, 10th International
 publication_short = "In *SBP-BRiMS 2017*"
 selected = true
 title = "An Agent-Based Model of Posting Behavior During Times of Societal Unrest"
+tags = ["agent based model", "network science", "social media"]
+
 
 [[url_custom]]
 name = "Springer Link"

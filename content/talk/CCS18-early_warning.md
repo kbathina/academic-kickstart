@@ -11,6 +11,7 @@ selected = false
 math = true
 
 url_slides = "presentations/early_warning_indicators.pdf"
+tags = ["early warning indicators", "resilience", "social media"]
 
 +++
 

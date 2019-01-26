@@ -16,6 +16,8 @@ url_slides = "presentations/HRL-Slides.pdf"
 # [header]
 # image = "headers/bubbles-wide.jpg"
 # caption = "My caption :smile:"
+tags = ["agent based model, network science, virality"]
+
 
 +++
 
