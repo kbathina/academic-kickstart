@@ -41,7 +41,7 @@ date_format = "January 2006"
   date_end = "2017-12-15"
   description = """
 
-  Courses: Information I-400: Collective Intelligence (Aug - Dec 2017)
+  Courses: Information I-400: Collective Intelligence
 
   Responsibilities include teaching, designing homework and projects, and grading.
   """
