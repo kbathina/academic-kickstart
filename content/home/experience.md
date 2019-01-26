@@ -24,8 +24,8 @@ date_format = "January 2006"
   company = "HRL Laboratories"
   company_url = "http://www.hrl.com/ "
   location = "Malibu, California"
-  date_start = "2016-06"
-  date_end = "2016-08"
+  date_start = "2016-06-01"
+  date_end = "2016-08-15"
   description = """
   Responsibilities include:
   
@@ -37,8 +37,8 @@ date_format = "January 2006"
   title = "Student Instructor"
   company = "Univeristy of Michigan"
   location = "Ann Arbor, Michigan"
-  date_start = "2013-08"
-  date_end = "2013-12"
+  date_start = "2013-08-01"
+  date_end = "2013-12-20"
   description = """
 
   Courses:
