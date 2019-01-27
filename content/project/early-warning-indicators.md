@@ -32,6 +32,6 @@ math = true
 
 Phase transitions are characteristic of many complex systems. We attempt to quantify early warning indicators and resilience for these phase transitions and apply them to many systems. 
 
-* Games - Using data from Twitch Plays Pokemon and from Unanimous AI, we are using informatino theory and 
+* Games - Using data from Twitch Plays Pokemon and from Unanimous AI, we are using information theory and collective intelligence methods to see if the decision time of a group can be pinpointed.
 
-riots, extreme weather, mental distress, and economic distress.
+* Social Media Data - We are using sentiment analysis tools to see if there are emotional patterns that can be seen across riots, extreme weather, mental distress, and economic distress.
