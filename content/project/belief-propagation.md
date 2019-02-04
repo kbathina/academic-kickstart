@@ -32,4 +32,4 @@ Belief propagation is a message passing algorithm applied over a network. The al
 
 We introduce an computationally less expensive approximation and test it on various graphs including GN, LFR, and real graphs. We showed the approximation worked comparably to many popular methods and even outperformed with some graphs with metadata.
 
-Currently under reivew at Applied Network Science.
+Accepted at review at Applied Network Science.
