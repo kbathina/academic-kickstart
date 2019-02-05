@@ -12,9 +12,10 @@ tags = ["agent based model", "network science", "social media"]
 
 
 [[url_custom]]
-name = "Springer Link"
+name = "Link"
 url = "https://link.springer.com/chapter/10.1007/978-3-319-60240-0_6"
+[[url_custom]]
+name = "PDF"
+url = "publications/ABM-societal_unrest.pdf"
 
 +++
-
-<!-- As the primary author in a three month project, I was given the responsibility of starting and designing a study involving big data and social media. Once planned, I used MapReduce on a Hadoop system to collect millions of Tumblr posts. Further work included building agent based models (through parameter finding and sensitivity analysis) as well as analysing its results. -->

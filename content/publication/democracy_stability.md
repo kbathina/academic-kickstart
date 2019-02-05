@@ -12,7 +12,8 @@ tags = ["agent based model", "network science"]
 [[url_custom]]
 name = "Link"
 url = "http://www.ipsonet.org/publications/open-access/policy-and-complex-systems/108-publications/open-access/journal-on-policy-and-complex-systems"
+[[url_custom]]
+name = "PDF"
+url = "publications/democracy_stability_networks.pdf"
 
 +++
-
-<!-- My role in this project included building various agent based models using Netlogo and analyzing the network results.  -->

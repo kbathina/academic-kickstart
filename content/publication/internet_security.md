@@ -11,10 +11,9 @@ title = "Instrumenting Simple Risk Communication to Enable Online Self-Protectio
 url_pdf = "https://www.ftc.gov/system/files/documents/public_comments/2016/10/00063-129182.pdf"
 tags = ["computer security"]
 
-
 [[url_custom]]
-name = "Project Link"
-url = "http://usablesecurity.net/CUTS/cuts.php"
+name = "PDF"
+url = "publications/simple_computer_risk.pdf"
 
 # Optional featured image (relative to `static/img/` folder).
 # [header]
@@ -22,5 +21,3 @@ url = "http://usablesecurity.net/CUTS/cuts.php"
 # caption = "My caption :smile:"
 
 +++
-
-<!-- This project included three phases; software, experimentation, and analysis. I worked on the analysis of the data. This included data cleanup, analyzing the participants' responses, and data visualization.  -->

@@ -10,7 +10,7 @@ selected = true
 title = "Usage-Based Approaches to Language Acquisition and Processing: Cognitive and Corpus Investigations of Construction Grammar"
 # url_code = "#"
 # url_dataset = "#"
-# url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+# url_pdf = 
 # url_project = "project/deep-learning/"
 # url_slides = "#"
 # url_video = "#"
@@ -27,5 +27,3 @@ url = "http://www.wiley.com/WileyCDA/WileyTitle/productCd-1119296528.html"
 # caption = "My caption :smile:"
 
 +++
-
-<!-- I worked on this project as part of my senior thesis. After doing research on models of language acquisition, I built an agent based model on efficient methods of communication. I also did the analysis and data visualization for the thesis and for the final chapter in the book. -->
