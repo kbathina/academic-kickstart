@@ -23,4 +23,4 @@ url = "http://usablesecurity.net/CUTS/cuts.php"
 
 +++
 
-This project included three phases; software, experimentation, and analysis. I worked on the analysis of the data. This included data cleanup, analyzing the participants' responses, and data visualization. 
+<!-- This project included three phases; software, experimentation, and analysis. I worked on the analysis of the data. This included data cleanup, analyzing the participants' responses, and data visualization.  -->

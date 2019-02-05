@@ -28,4 +28,4 @@ url = "http://www.wiley.com/WileyCDA/WileyTitle/productCd-1119296528.html"
 
 +++
 
-I worked on this project as part of my senior thesis. After doing research on models of language acquisition, I built an agent based model on efficient methods of communication. I also did the analysis and data visualization for the thesis and for the final chapter in the book.
+<!-- I worked on this project as part of my senior thesis. After doing research on models of language acquisition, I built an agent based model on efficient methods of communication. I also did the analysis and data visualization for the thesis and for the final chapter in the book. -->

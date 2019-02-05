@@ -15,4 +15,4 @@ url = "http://www.ipsonet.org/publications/open-access/policy-and-complex-system
 
 +++
 
-My role in this project included building various agent based models using Netlogo and analyzing the network results. 
+<!-- My role in this project included building various agent based models using Netlogo and analyzing the network results.  -->
