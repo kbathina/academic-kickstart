@@ -8,7 +8,6 @@ publication = "Federal Trade Commision"
 publication_short = "FTC"
 selected = true
 title = "Instrumenting Simple Risk Communication to Enable Online Self-Protection"
-url_pdf = "https://www.ftc.gov/system/files/documents/public_comments/2016/10/00063-129182.pdf"
 tags = ["computer security"]
 
 [[url_custom]]
