@@ -24,13 +24,13 @@
   weight = 4
 
 [[main]]
-  name = "Skills"
-  url = "#skills"
+  name = "Services"
+  url = "#services"
   weight = 5
 
 [[main]]
-  name = "Services"
-  url = "#services"
+  name = "Skills"
+  url = "#skills"
   weight = 6
 
 [[main]]
