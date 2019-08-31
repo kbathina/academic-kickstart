@@ -6,7 +6,6 @@ abstract_short = ""
 event = "Conference on Complex Systems 2017"
 event_url = "http://ccs17.unam.mx/"
 location = "Cancun, Mexico"
-test = "Nothing"
 
 selected = false
 math = true

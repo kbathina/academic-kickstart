@@ -25,11 +25,9 @@ date_format = "January 2006"
   location = "Bloomington, Indiana"
   date_start = "2018-01-15"
   description = """
-
-  Responsibilities include:
   
   * Collecting social media data using the Twitter API
-  * Applying sentiment analysis tools for rating tweets using Python3
+  * Applying sentiment analysis methods using Python3
   * Building null models and bootstrapping data for statistical analysis
   """
 
@@ -40,10 +38,8 @@ date_format = "January 2006"
   date_start = "2016-08-15"
   date_end = "2017-05-15"
   description = """
-
-  Responsibilities include:
   
-  * Building a new community detection method using a new theoretical framework
+  * Building a community detection method using a new theoretical framework involving belief propagation
   * Reducing the computational complexity of current community detection methods
   * Analyzing the efficiency and accuracy on artificial and real networks
   """
@@ -56,7 +52,6 @@ date_format = "January 2006"
   date_start = "2016-06-01"
   date_end = "2016-08-15"
   description = """
-  Responsibilities include:
   
   * Collecting social media data using Hadoop with MapReduce
   * Building and testing agent based models the spread of viral protest hashtags using Python3
@@ -69,8 +64,6 @@ date_format = "January 2006"
   date_start = "2015-08-01"
   date_end = "2015-12-15"
   description = """
-
-  Responsibilities include:
   
   * Coding and analyzing participant responses and surveys about computer security
   * Making visualizations using Python3
