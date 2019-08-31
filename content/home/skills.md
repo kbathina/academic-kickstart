@@ -17,8 +17,8 @@ weight = 60
 
 Coding Skills - 
 
-* Highest Proficiency with **Python2**, **Python3**, **Latex** 
-* Experience with **C**, **C++**, **R**, **MySQL**, **Bash**, **Gephi**, **Matlab**, **Hadoop**
+* Highest Proficiency with **Python2/3**, **Latex** 
+* Experience with **Bash**, **MySQL**, **R**, **Gephi**, **Matlab**, **Hadoop**
 * Python Packages 
 	* Analysis - **NumPy**, **SciPy**, **Pandas**, **GeoPandas**, **nltk**, **scikit-learn**, **PyMC3**, **Theano**
 	* Data - **BeautifulSoup**, **SQLAlchemy**, 

@@ -28,22 +28,9 @@ date_format = "January 2006"
 
   Responsibilities include:
   
-  * Collecting social media in accordance to the EDA grant
-  * Applying sentiment analysis tools for rating tweets
+  * Collecting social media data using the Twitter API
+  * Applying sentiment analysis tools for rating tweets using Python3
   * Building null models and bootstrapping data for statistical analysis
-  """
-
-[[experience]]
-  title = "Associate Instructor"
-  company = "Indiana University"
-  location = "Bloomington, Indiana"
-  date_start = "2017-08-15"
-  date_end = "2017-12-15"
-  description = """
-
-  Courses: Information I-400: Collective Intelligence
-
-  Responsibilities include teaching, designing homework and projects, and grading.
   """
 
 [[experience]]
@@ -56,8 +43,9 @@ date_format = "January 2006"
 
   Responsibilities include:
   
-  * Reducing the computational complexity of a current community detection method 
-  * Analyzing the efficiency and accuracy of the new method on artificial and real networks
+  * Building a new community detection method using a new theoretical framework
+  * Reducing the computational complexity of current community detection methods
+  * Analyzing the efficiency and accuracy on artificial and real networks
   """
 
 [[experience]]
@@ -71,20 +59,7 @@ date_format = "January 2006"
   Responsibilities include:
   
   * Collecting social media data using Hadoop with MapReduce
-  * Agent based modelling the spread of viral protest hashtags using Python3
-  """
-
-  [[experience]]
-  title = "Associate Instructor"
-  company = "Indiana University"
-  location = "Bloomington, Indiana"
-  date_start = "2016-01-01"
-  date_end = "2016-05-30"
-  description = """
-
-  Courses: Informatics I-210: Information Infrastructure I
-
-  Responsibilities include teaching Python3, proctoring exams, and grading homework assignments. 
+  * Building and testing agent based models the spread of viral protest hashtags using Python3
   """
 
 [[experience]]
@@ -100,34 +75,4 @@ date_format = "January 2006"
   * Coding and analyzing participant responses and surveys about computer security
   * Making visualizations using Python3
   """
-
-[[experience]]
-  title = "Associate Instructor"
-  company = "Indiana University"
-  location = "Bloomington, Indiana"
-  date_start = "2014-08-01"
-  date_end = "2015-05-30"
-  description = """
-
-  Courses: Informatics I-201: Mathematical Foundations of Informatics
-
-  Responsibilities include teaching mathematics, proctoring exams, and grading homework assignments. 
-  """
-
-[[experience]]
-  title = "Student Instructor"
-  company = "Univeristy of Michigan"
-  location = "Ann Arbor, Michigan"
-  date_start = "2013-08-01"
-  date_end = "2013-12-20"
-  description = """
-
-  Courses:
-
-  * Complex Systems 209: Agent Based Models
-  * Complex Systems 391: Modeling in Political Science
-
-  Responsibilities include making and grading classroom homework, quizzes, and exams.
-  """
-
 +++

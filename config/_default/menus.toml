@@ -34,11 +34,16 @@
   weight = 6
 
 [[main]]
+  name = "Teachings"
+  url = "#teachings"
+  weight = 7
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 [[main]]
    name = "CV"
    url = "cv.pdf"
-   weight = 8
+   weight = 9

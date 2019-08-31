@@ -30,8 +30,11 @@ math = true
 
 +++
 
-Phase transitions are characteristic of many complex systems. We attempt to quantify early warning indicators and resilience for these phase transitions and apply them to many systems. 
+Phase transitions are characteristic of many complex systems. We attempt to quantify early warning indicators and resilience for complex systems that undergo shock. These can be classified into three categories:
 
-* Games - Using data from Twitch Plays Pokemon and from Unanimous AI, we are using information theory and collective intelligence methods to see if the decision time of a group can be pinpointed.
+* Social Resilience - How is a groups' resilience affected by external shock? I look at examples, such as hurricanes and protests using tweets.
 
-* Social Media Data - We are using sentiment analysis tools to see if there are emotional patterns that can be seen across riots, extreme weather, mental distress, and economic distress.
+* Emotional Resilience - How is an individual affected by an emotional shock? I specifically look at examples comparing Twitter users with depression to a control sample.
+
+* Group resilience - How are individuals affected by group influence? Using game data from Twitch Plays Pokemon and from Unanimous AI, we use information theory and collective intelligence methods to see how individual users are affected and how consensus is reached.
+

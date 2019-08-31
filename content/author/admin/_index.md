@@ -93,6 +93,5 @@ interests = [
 
 +++
 
-I am a 5th year PhD student at Indiana University studying Complex Systems. I am currently working with Drs. Johan Bollen and Filippo Radicchi. My thesis broadly revolves around patterns during phase transitions. 
+I am a 5th year PhD student at Indiana University studying Complex Systems. I am currently working with Doctors Johan Bollen and Filippo Radicchi. While my research projects have varied from genetic promoter diversity to community detection to human factors in security, my main interests revolve around resilience in systems that undergo shock and characterizing early warning indicators to these phase transitions. I am interested in finding universal patterns in many types of systems, such as collective gameplay, emotional stability in depressed individuals, and community sentiment during adverse events.
 
-I am currently working on a python implementation (with code and explanation) of Doing Bayesian Data Analysis: A Tutorial Introduction with R by Dr. John Kruschke. The current (unfinished) working website is linked [here](https://pydbda.github.io/dbda-notes/).
