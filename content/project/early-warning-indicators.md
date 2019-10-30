@@ -36,5 +36,5 @@ Phase transitions are characteristic of many complex systems. We attempt to quan
 
 * Emotional Resilience - How is an individual affected by an emotional shock? I specifically look at examples comparing Twitter users with depression to a control sample.
 
-* Group Resilience - How are individuals affected by group influence? Using game data from Twitch Plays Pokemon and from Unanimous AI, we use information theory and collective intelligence methods to see how individual users are affected and how consensus is reached.
+* Group Resilience - How are individuals affected by group influence? Using game data from Twitch Plays Pokemon and Unanimous AI, we use information theory and collective intelligence methods to see how individual users are affected and how consensus is reached.
 
