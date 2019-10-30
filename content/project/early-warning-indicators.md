@@ -30,9 +30,9 @@ math = true
 
 +++
 
-Phase transitions are characteristic of many complex systems. We attempt to quantify early warning indicators and resilience for complex systems that undergo shock. These can be classified into three categories:
+Phase transitions are characteristic of complex systems. We attempt to quantify early warning indicators and resilience for complex systems that undergo shock. These can be classified into three categories:
 
-* Social Resilience - How is a groups' resilience affected by external shock? I look at examples, such as hurricanes and protests using tweets.
+* Social Resilience - How is a groups' resilience affected by external shock? I look at examples, such as hurricanes and protests using Twitter.
 
 * Emotional Resilience - How is an individual affected by an emotional shock? I specifically look at examples comparing Twitter users with depression to a control sample.
 
