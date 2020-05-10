@@ -20,8 +20,8 @@ Coding Skills -
 * Highest Proficiency with **Python2/3**, **Latex** 
 * Experience with **Bash**, **MySQL**, **R**, **Gephi**, **Matlab**, **Hadoop**
 * Python Packages 
-	* Analysis - **NumPy**, **SciPy**, **Pandas**, **GeoPandas**, **nltk**, **scikit-learn**, **PyMC3**, **Theano**
+	* Analysis - **NumPy**, **SciPy**, **Pandas**, **GeoPandas**, **nltk**, **scikit-learn**, **PyMC3**, **Theano**, **KERAS/TensarFlow**, **PyTorch**
 	* Data - **BeautifulSoup**, **SQLAlchemy**, 
 	* Visualization - **matplotlib**, **seaborn**, **plotly**
 
-Technical Skills - **Data Science**, **Big Data Analysis**, **Network Science**, **Sentiment Analysis**, **Natural Language Processing**, **Machine Learning**, **Statistics** (parametric and non-parametric)
+Technical Skills - **Data Science**, **Exploratory Data Analysis**, **Topological Data Analysis**, **Big Data **, **Network Science**, **Sentiment Analysis**, **Natural Language Processing**, **Machine Learning**, **Statistics** (parametric and non-parametric)
