@@ -38,3 +38,4 @@ Phase transitions are characteristic of complex systems. We attempt to quantify 
 
 * Group Resilience - How are individuals affected by group influence? Using game data from Twitch Plays Pokemon and Unanimous AI, we use information theory and collective intelligence methods to see how individual users are affected and how consensus is reached.
 
+We use a variety of analysis tools in these projects, such as sentiment analysis, topological data analysis, and network theory.

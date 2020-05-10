@@ -24,4 +24,4 @@ Coding Skills -
 	* Data - **BeautifulSoup**, **SQLAlchemy**, 
 	* Visualization - **matplotlib**, **seaborn**, **plotly**
 
-Technical Skills - **Data Science**, **Exploratory Data Analysis**, **Topological Data Analysis**, **Big Data **, **Network Science**, **Sentiment Analysis**, **Natural Language Processing**, **Machine Learning**, **Statistics** (parametric and non-parametric)
+Technical Skills - **Data Science**, **Exploratory Data Analysis**, **Topological Data Analysis**, **Big Data **, **Network Science**, **Sentiment Analysis**, **Natural Language Processing**, **Machine Learning**, **Statistics** (parametric, non-parametric, bayesiaan)
