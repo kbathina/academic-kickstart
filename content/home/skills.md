@@ -17,11 +17,11 @@ weight = 60
 
 Coding Skills - 
 
-* Highest Proficiency with **Python2/3**, **Latex** 
-* Experience with **Bash**, **MySQL**, **R**, **Gephi**, **Matlab**, **Hadoop**
+* Languages: **Python2/3**, **Bash**, **R**
+* Tools: **MySQL**, **PySpark**, **Git/Github**,
 * Python Packages 
 	* Analysis - **NumPy**, **SciPy**, **Pandas**, **GeoPandas**, **nltk**, **scikit-learn**, **PyMC3**, **Theano**, **KERAS/TensarFlow**, **PyTorch**
 	* Data - **BeautifulSoup**, **SQLAlchemy**, 
 	* Visualization - **matplotlib**, **seaborn**, **plotly**
 
-Technical Skills - **Data Science**, **Exploratory Data Analysis**, **Topological Data Analysis**, **Big Data**, **Network Science**, **Sentiment Analysis**, **Natural Language Processing**, **Machine Learning**, **Statistics** (parametric, non-parametric, bayesian)
+Technical Skills - **Data Science**, **Big Data**, **Machine Learning**, **Network Science**, **Deep Learning**, **Exploratory Data Analysis**, **Topological Data Analysis**, **Sentiment Analysis**, **Natural Language Processing**, **Statistics** (parametric, non-parametric, bayesian)
