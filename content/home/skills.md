@@ -18,7 +18,7 @@ weight = 60
 Coding Skills - 
 
 * Languages: **Python2/3**, **Bash**, **R**
-* Tools: **MySQL**, **PySpark**, **Git/Github**,
+* Tools: **MySQL**, **MongoDB**, **PySpark**, **Git/Github**,
 * Python Packages 
 	* Analysis - **NumPy**, **SciPy**, **Pandas**, **GeoPandas**, **nltk**, **scikit-learn**, **PyMC3**, **Theano**, **KERAS/TensarFlow**, **PyTorch**
 	* Data - **BeautifulSoup**, **SQLAlchemy**, 
