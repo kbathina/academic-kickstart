@@ -22,6 +22,6 @@ Coding Skills -
 * Python Packages 
 	* Analysis - **NumPy**, **SciPy**, **Pandas**, **GeoPandas**, **nltk**, **scikit-learn**, **PyMC3**, **Theano**, **KERAS/TensarFlow**, **PyTorch**
 	* Data - **BeautifulSoup**, **SQLAlchemy**, 
-	* Visualization - **matplotlib**, **seaborn**, **plotly**
+	* Visualization - **matplotlib**, **seaborn**, **plotly**, **ggplot2**, **Tableau**
 
 Technical Skills - **Data Science**, **Big Data**, **Machine Learning**, **Network Science**, **Deep Learning**, **Exploratory Data Analysis**, **Topological Data Analysis**, **Sentiment Analysis**, **Natural Language Processing**, **Statistics** (parametric, non-parametric, bayesian)
