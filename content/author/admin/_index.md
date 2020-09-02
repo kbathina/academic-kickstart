@@ -93,5 +93,5 @@ interests = [
 
 +++
 
-I am a 5th year PhD student at Indiana University studying Complex Systems. I am currently working with Doctors Johan Bollen and Filippo Radicchi. While my research projects have varied from genetic promoter diversity to community detection to human factors in security, my main interests revolve around resilience in systems that undergo shock and characterizing early warning indicators to these phase transitions. I am interested in finding universal patterns in many types of systems, such as collective gameplay, emotional stability in depressed individuals, and community sentiment during adverse events.
+I am a 6th year PhD student at Indiana University studying Complex Systems. I am currently working with Doctors Johan Bollen and Filippo Radicchi. While my research projects have varied from genetic promoter diversity to community detection to human factors in security, my main interests revolve around resilience in systems that undergo shock and characterizing early warning indicators to these phase transitions. I am interested in finding universal patterns in many types of systems, such as collective gameplay, emotional stability in depressed individuals, and community sentiment during adverse events.
 
