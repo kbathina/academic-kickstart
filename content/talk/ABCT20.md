@@ -1,5 +1,5 @@
 +++
-date = "2020-11"
+date = "2020-11-01"
 title = "Distorted thinking online: evidence for cognitive distortions in depressed twitter users"
 abstract = ""
 abstract_short = ""
