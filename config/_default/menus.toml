@@ -33,17 +33,17 @@
 #  url = "#services"
 #  weight = 5
 
-[[main]]
-  name = "Teachings"
-  url = "#teachings"
-  weight = 5
+#[[main]]
+#  name = "Teachings"
+#  url = "#teachings"
+#  weight = 5
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 [[main]]
    name = "CV"
    url = "cv.pdf"
-   weight = 7
+   weight = 6
