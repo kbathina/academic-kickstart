@@ -9,41 +9,41 @@
   weight = 1
 
 [[main]]
+  name = "Skills"
+  url = "#skills"
+  weight = 2
+
+[[main]]
   name = "Projects"
   url = "#projects"
-  weight = 2
+  weight = 3
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 3
-
-[[main]]
-  name = "Talks"
-  url = "#talks"
   weight = 4
 
-[[main]]
-  name = "Services"
-  url = "#services"
-  weight = 5
+#[[main]]
+#  name = "Talks"
+#  url = "#talks"
+#  weight = 4
 
-[[main]]
-  name = "Skills"
-  url = "#skills"
-  weight = 6
+#[[main]]
+#  name = "Services"
+#  url = "#services"
+#  weight = 5
 
 [[main]]
   name = "Teachings"
   url = "#teachings"
-  weight = 7
+  weight = 5
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 8
+  weight = 6
 
 [[main]]
    name = "CV"
    url = "cv.pdf"
-   weight = 9
+   weight = 7

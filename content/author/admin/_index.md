@@ -6,14 +6,14 @@ name = "Krishna Bathina"
 superuser = true
 
 # Role/position
-role = "PhD student looking for jobs starting from June 2020"
+role = "Decision Science Associate Consultant"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Center for Complex Networks and Systems Research", url = "cnets.indiana.edu/" } ]
+organizations = [ { name = "ZS Consulting", url = "https://www.zs.com/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "PhD student interested in complexity and systems science"
+bio = "Data scientists interested in complexity and systems science"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -21,8 +21,9 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Network Science",
-  "Early Warning Indicators",
-  "Resilience"
+  "Resilience",
+  "Natural Language Processing",
+  "Machine Learning"
 ]
 
 # List qualifications (such as academic degrees)
@@ -93,5 +94,5 @@ interests = [
 
 +++
 
-I am a 6th year PhD student at Indiana University studying Complex Systems. I am currently working with Doctors Johan Bollen and Filippo Radicchi. While my research projects have varied from genetic promoter diversity to community detection to human factors in security, my main interests revolve around resilience in systems that undergo shock and characterizing early warning indicators to these phase transitions. I am interested in finding universal patterns in many types of systems, such as collective gameplay, emotional stability in depressed individuals, and community sentiment during adverse events.
+I am a 7th year PhD student at Indiana University studying Complex Systems. I am currently working with Doctors Johan Bollen and Filippo Radicchi. While my research projects have varied from genetic promoter diversity to community detection to human factors in security, my main interests revolve around resilience in systems that undergo shock and characterizing early warning indicators to these phase transitions. I am interested in finding universal patterns in many types of systems, such as collective gameplay, emotional stability in depressed individuals, and community sentiment during adverse events.
 
