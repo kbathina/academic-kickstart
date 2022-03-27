@@ -8,11 +8,6 @@
   url = "#about"
   weight = 1
 
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 2
-
 [[main]]
   name = "Skills"
   url = "#skills"
@@ -22,21 +17,6 @@
   name = "Publications"
   url = "#publications"
   weight = 3
-
-#[[main]]
-#  name = "Talks"
-#  url = "#talks"
-#  weight = 4
-
-#[[main]]
-#  name = "Services"
-#  url = "#services"
-#  weight = 5
-
-#[[main]]
-#  name = "Teachings"
-#  url = "#teachings"
-#  weight = 5
 
 [[main]]
   name = "Contact"

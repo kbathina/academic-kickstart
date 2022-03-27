@@ -6,7 +6,7 @@ name = "Krishna Bathina"
 superuser = true
 
 # Role/position
-role = "Decision Science Associate Consultant"
+role = "Data Science Consulting"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -30,7 +30,7 @@ interests = [
 [[education.courses]]
   course = "PhD in Complex Systems"
   institution = "Indiana University"
-  year = 2020
+  year = 2022
 
 [[education.courses]]
   course = "MS in Computer Science"
@@ -84,6 +84,11 @@ interests = [
   icon = "github"
   icon_pack = "fab"
   link = "//github.com/kbathina"
+
+[[social]]
+  icon = "envelope"
+  icon_pack = "fab"
+  link = "krishnacbathina@gmail.com"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
