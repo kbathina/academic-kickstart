@@ -154,12 +154,12 @@ There were some aspects of this project that were very interesting. One, even th
 
 Figure 1
 
-<img src="../../../static/time.png" width="400" height="300" />
+<img src="time.png" width="400" height="300" />
 
 
 Figure 2
 
-<img src="Feature Distribution Across Genre.png"/>
+<img src="distribution.png"/>
 
 Figure 3
 
