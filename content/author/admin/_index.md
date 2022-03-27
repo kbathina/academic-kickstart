@@ -90,13 +90,6 @@ interests = [
   icon_pack = "fab"
   link = "krishnacbathina@gmail.com"
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[social]]
-  icon = "cv"
-  icon_pack = "ai"
-  link = "static/files/CV.pdf"
-
 +++
 
 I love solving complex problems through exploratory data analysis. I believe looking at the data and methods from various interdisciplinary angles is the best way to come up with an optimal solution. It is like solving a puzzle; you can’t start building from a corner one piece at a time. You need to assemble individual components and then combine them together.
