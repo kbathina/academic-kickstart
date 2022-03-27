@@ -4,8 +4,6 @@ title: Understanding Musical Features in Various Genres
 # Date published
 date: "2020-12-13T00:00:00Z"
 
-# Date updated
-lastmod: "2022-03-28T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -13,17 +11,6 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-
-authors:
-- admin
-- Krishna
-
-tags:
-- Academic
-- blogpost
-
-categories:
-- Demo
 ---
 
 ![](https://miro.medium.com/max/1400/1*7RptC87l1-rSKZtBf5DTCg.jpeg)
