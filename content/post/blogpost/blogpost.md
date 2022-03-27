@@ -29,9 +29,7 @@ To solve this classification problem, I look into using machine learning. Using 
 
 I focus on two metrics for choosing the best model. The first, accuracy, is the ratio of the number of correct guesses by the total number of guesses. The second, F1-score, is a metric to account for the contributions of precision and recall. The formula is shown below. 
 
-{{< math >}}
-$$F1 = \frac{2*(precision * recall)}{precision + recall}$$
-{{< /math >}}
+$$F1 = \\frac{2*(precision * recall)}{precision + recall}$$
 
 Because this is a multi-class classification, an F1 score is calculated per genre. 
 
