@@ -159,7 +159,7 @@ Figure 1
 
 Figure 2
 
-<img src="distribution.png"/>
+<img src="distribution.png" />
 
 Figure 3
 
