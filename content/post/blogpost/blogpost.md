@@ -154,7 +154,7 @@ There were some aspects of this project that were very interesting. One, even th
 
 Figure 1
 
-![Tux, the Linux mascot](time.png)
+![Tux, the Linux mascot](./time.png)
 
 <img src="time.png" width="400" height="300" />
 
