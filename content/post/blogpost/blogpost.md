@@ -153,20 +153,13 @@ There were some aspects of this project that were very interesting. One, even th
 ## Data Visualizations
 
 Figure 1
-
-![Tux, the Linux mascot](./time.png)
-
-<img src="time.png" width="400" height="300" />
-
+![](./time.png)
 
 Figure 2
-
-<img src="distribution.png" />
+![](./distribution.png)
 
 Figure 3
-
-<img src="results.png" width="500" height="300" />
+![](./results.png)
 
 Figure 4
-
-<img src="f1.png" width="500" height="300" />
+![](./f1.png)
