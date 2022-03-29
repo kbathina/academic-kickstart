@@ -15,7 +15,7 @@ featured: false
 
 ![](https://miro.medium.com/max/1400/1*7RptC87l1-rSKZtBf5DTCg.jpeg)
 
-## Problem Overview
+## Project Overview
 
 Music is typically classified into genres, such as pop, rock, or rap but defining these genres is very difficult. Can rap songs also be classified as pop? What if a rock song has rap in it? With the lack of standard definitions and so many different mixed genres, human classification is very unreliable for industry use. A perfect definition is not needed, but there needs to be a consistent grouping.
 
@@ -105,7 +105,7 @@ Removing rows with missing data reduces the data size to 65% of the original siz
 
 ### Preprocessing
 
-In order to normalize the values of the model, I applied a zcore normalization on all features. This processing was done *after* the data was split into training/testing sets as not to bias the model
+In order to normalize the values of the model, I applied a zscore normalization on all features. This processing was done *after* the data was split into training/testing sets as not to bias the model
 
 ## Implementation
 
@@ -119,9 +119,9 @@ My strategy to build a good classifier was to try many different algorithms (sho
 6. Gaussian Naive Bayes (GNB)
 
 
-## Refinement
+## Model Evaluation and Validation
 
-In order to find the optimal value of parameters, I used a grid search to test values. The parameters and their values are shown below:
+In order to find the optimal value of parameters, I used a cross validation resampling. The parameters and their values are shown below:
 
 | Algorithms | Parameter | Values|
 | ----------- | ----------- | ----------- |
@@ -131,13 +131,13 @@ In order to find the optimal value of parameters, I used a grid search to test v
 | RandForest | Max Depth | [2,4,6,8,10]|
 | ADA | Learning Rate | [0.01,0.1,1,10,100]|
 
-Besides the parameter search, no extra refinements were made to update the model.
+## Refinement
 
-## Model Evaluation and Validation
-
-I plotted the validation accuracy across 10 independent runs of each type of classifier, shown in Figure 3 (Data Visualization). 
+Besides the parameter search and the stratified training/testing split, no extra refinements were made to update the model.
 
 ## Justification
+
+I plotted the validation accuracy across 10 independent runs of each type of classifier, shown in Figure 3 (Data Visualization). 
 
 ADA and GNB had the lowest performance at around 37%. KNN and LogReg had about 43% accuracy while SVC and RandForest were the best performers at 46%. There is about a 9% chance to randomly guess the correct genre. In all classifiers, the instrumental genre had the highest F1 score, shown in Figure 4 (Data Visualization). This is most likely the uniqueness of the genre; there is little confusion between what constitutes instrumental when compared to the other genres.
 
