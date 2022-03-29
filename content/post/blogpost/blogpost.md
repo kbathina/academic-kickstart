@@ -95,7 +95,7 @@ The distribution of many of the features make sense except for Duration_in min/m
 
 ### Missing Data
 
-3 Features contain missing features. 
+3 Features contain missing features:
 
 1.  Popularity: 428
 2.  Key: 2014
@@ -153,6 +153,8 @@ There were some aspects of this project that were very interesting. One, even th
 ## Data Visualizations
 
 Figure 1
+
+![Tux, the Linux mascot](time.png)
 
 <img src="time.png" width="400" height="300" />
 
