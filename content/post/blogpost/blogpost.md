@@ -27,7 +27,7 @@ To solve this classification problem, I look into using machine learning. Using 
 
 ## Metrics
 
-I focus on two metrics for choosing the best model. The first, accuracy, is the ratio of the number of correct guesses by the total number of guesses. The second, F1-score, is a metric to account for the contributions of precision and recall. Because this is a multi-class classification, an F1 score is calculated per genre. 
+I focus on two metrics for choosing the best model. The first, accuracy, is the ratio of the number of correct guesses by the total number of guesses. I use this metric because it is a simple indicator of how well a classifier behaves. But because of the class imbalance and possible misclassifications, I also look into using precision and recall. Both are closely related; precision is the ratio between true positive predictions and total positive predictions while recall is the ratio between true positive predictions and actul positives. While both are useful, improving one typically decreases the other. To properly account for this, my second metric is the F1-score, or the harmonic mean between precission and recall. A perfect F1-score indicates perfect precision and recall while the lowest indicates that the value of at least one is 0. Because this is a multi-class classification, I calculate an F1-score per genre. This is necessary because if there is a class imbalance, the values of the largest genre will obscure the remaining genres.
 
 ## Data Exploration
 
@@ -123,7 +123,7 @@ My strategy to build a good classifier was to try many different algorithms (sho
 
 In order to find the optimal value of parameters, I used a cross validation resampling. The parameters and their values are shown below:
 
-| Algorithms | Parameter | Values|
+| Algorithms | Parameter | Possible Values|
 | ----------- | ----------- | ----------- |
 | KNN | Number of neighbors | [1,5,10,15,20,25]|
 | LogReg | Inverse of regularization strength | [0.1,0.2,0.3,...,10.9]|
@@ -132,6 +132,14 @@ In order to find the optimal value of parameters, I used a cross validation resa
 | ADA | Learning Rate | [0.01,0.1,1,10,100]|
 
 ## Refinement
+
+| Algorithms | Parameter | Final Value|
+| ----------- | ----------- | ----------- |
+| KNN | Number of neighbors | 5|
+| LogReg | Inverse of regularization strength | 1|
+| SVC | Inverse of regularization strength  | 1|
+| RandForest | Max Depth | 4|
+| ADA | Learning Rate | 1|
 
 Besides the parameter search and the stratified training/testing split, no extra refinements were made to update the model.
 
