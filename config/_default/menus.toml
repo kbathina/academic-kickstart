@@ -27,8 +27,3 @@
    name = "CV"
    url = "cv.pdf"
    weight = 5
-
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 6
